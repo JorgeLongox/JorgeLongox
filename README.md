@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me: check me on linkedIn as "Jorge Longo da Silva Neto"
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: huge fan of Harry Potter!
+- ⚡ Fun fact: huge fan of Harry Potter and Marvel!
 
 <!---
 JorgeLongox/JorgeLongox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
